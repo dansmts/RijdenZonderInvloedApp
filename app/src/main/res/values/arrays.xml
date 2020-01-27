@@ -1,0 +1,12 @@
+<resources>
+    <!-- Geslacht Preference -->
+    <string-array name="pref_geslacht_labels">
+        <item>@string/pref_geslacht_man_label</item>
+        <item>@string/pref_geslacht_vrouw_label</item>
+    </string-array>
+
+    <string-array name="pref_geslacht_values">
+        <item>@string/pref_geslacht_man_value</item>
+        <item>@string/pref_geslacht_vrouw_value</item>
+    </string-array>
+</resources>

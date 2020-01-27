@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">RijdenZonderInvloed</string>
+    <string name="title_activity_voorkeuren">Voorkeuren</string>
+    <string name="title_activity_geschiedenis_detail">Geschiedenis - Detail</string>
+    <string name="title_activity_geschiedenis_list">Geschiedenis</string>
+
+    <!-- Menu items -->
+    <string name="menu_voorkeuren">Voorkeuren</string>
+    <string name="menu_geschiedenis">Geschiedenis</string>
+
+    <!-- Preference Titles -->
+    <string name="pref_gebruiker_header">Gebruiker</string>
+    <string name="pref_app_header">Applicatie</string>
+
+    <!-- Geslacht Preference -->
+    <string name="pref_geslacht_title">Geslacht</string>
+    <string name="pref_geslacht_key" translatable="false">geslacht</string>
+    <string name="pref_geslacht_man_label">Man</string>
+    <string name="pref_geslacht_man_value" translatable="false">man</string>
+    <string name="pref_geslacht_vrouw_label">Vrouw</string>
+    <string name="pref_geslacht_vrouw_value" translatable="false">vrouw</string>
+    <string name="pref_geslacht_default_value" translatable="false">man</string>
+
+    <!-- Gewicht Preference -->
+    <string name="pref_gewicht_title">Gewicht</string>
+    <string name="pref_gewicht_key" translatable="false">gewicht</string>
+    <string name="pref_gewicht_default">75</string>
+
+
+    <!-- Drunk Fases icoon-->
+    <string name="ic_drunk_fase_1">ic_drunk_fase_1</string>
+    <string name="ic_drunk_fase_2">ic_drunk_fase_2</string>
+    <string name="ic_drunk_fase_3">ic_drunk_fase_3</string>
+    <string name="ic_drunk_fase_4">ic_drunk_fase_4</string>
+    <string name="ic_drunk_fase_5">ic_drunk_fase_5</string>
+    <string name="ic_drunk_fase_6">ic_drunk_fase_6</string>
 </resources>
